@@ -1,0 +1,15 @@
+# Binarios compilados
+*.exe
+*.out
+/bin/
+
+# Tests y coverage
+*.test
+coverage.*
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Variables de entorno / secretos
+.env
